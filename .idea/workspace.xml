@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="29d42ae1-8e26-4034-a59d-796d8941ea54" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="tsconfig.json" />
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="GLSL Shader" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1TOE2rspUrLS4XirAmKK9s6Nifb" />
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29d42ae1-8e26-4034-a59d-796d8941ea54" name="Default Changelist" comment="" />
+      <created>1573322537596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573322537596</updated>
+      <workItem from="1573322538944" duration="5014000" />
+      <workItem from="1573512592909" duration="3635000" />
+      <workItem from="1573524412746" duration="2071000" />
+      <workItem from="1573573412366" duration="81000" />
+      <workItem from="1573573546246" duration="401000" />
+      <workItem from="1573596018252" duration="1262000" />
+      <workItem from="1573617552990" duration="861000" />
+      <workItem from="1573744367827" duration="23000" />
+      <workItem from="1573832935265" duration="4021000" />
+      <workItem from="1573932430065" duration="8324000" />
+      <workItem from="1574127260135" duration="2108000" />
+      <workItem from="1574178257942" duration="27000" />
+      <workItem from="1574181667260" duration="4983000" />
+      <workItem from="1574203451515" duration="2728000" />
+      <workItem from="1574265526401" duration="1076000" />
+      <workItem from="1574519833171" duration="25270000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/helperfunctions.js.map" />
+        <option value="$PROJECT_DIR$/helperfunctions.js" />
+        <option value="$PROJECT_DIR$/texturefunctions.js.map" />
+        <option value="$PROJECT_DIR$/texturefunctions.js" />
+        <option value="$PROJECT_DIR$/../normalMapping/helperfunctions.js" />
+        <option value="$PROJECT_DIR$/../normalMapping/normalmapfunctions.js" />
+        <option value="$PROJECT_DIR$/../normalMapping/normalmapfunctions.js.map" />
+        <option value="$PROJECT_DIR$/../normalMapping/helperfunctions.js.map" />
+      </list>
+    </option>
+  </component>
+</project>
