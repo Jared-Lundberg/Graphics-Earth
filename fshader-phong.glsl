@@ -43,10 +43,6 @@ void main() {
             spec = vec4(0, 0, 0, 0);
         }
 
-        //diffuse term
-
-
-        //specular term
 
 
         if (dot(L, N) < 0.0){

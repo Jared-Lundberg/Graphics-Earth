@@ -31,7 +31,7 @@ void main() {
 
 
     vec4 amb = texture(cloudSampler, ftexCoord);
-    vec4 diff = max(0.0, dot(L, N)) * fAmbientDiffuseColor * light_color;
+    vec4 diff = pow(max(0.0, dot(N, H)), texture(cloudSampler, ftexCoord).a * 60.0) * vec4(texture(cloudSampler, ftexCoord).rgb, 1.0) * light_color;
 
     fColor = amb + diff;
     fColor.a = texture(cloudSampler, ftexCoord).a;

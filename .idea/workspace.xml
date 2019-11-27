@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29d42ae1-8e26-4034-a59d-796d8941ea54" name="Default Changelist" comment="" />
+    <list default="true" id="29d42ae1-8e26-4034-a59d-796d8941ea54" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fCloud.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/fCloud.glsl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fshader-phong.glsl" beforeDir="false" afterPath="$PROJECT_DIR$/fshader-phong.glsl" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,9 +23,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1TOE2rspUrLS4XirAmKK9s6Nifb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="settings.typescriptcompiler" />
@@ -71,7 +81,8 @@
       <workItem from="1574181667260" duration="4983000" />
       <workItem from="1574203451515" duration="2728000" />
       <workItem from="1574265526401" duration="1076000" />
-      <workItem from="1574519833171" duration="25270000" />
+      <workItem from="1574519833171" duration="27126000" />
+      <workItem from="1574826256965" duration="153000" />
     </task>
     <servers />
   </component>
@@ -88,6 +99,19 @@
         <option value="$PROJECT_DIR$/../normalMapping/normalmapfunctions.js.map" />
         <option value="$PROJECT_DIR$/../normalMapping/helperfunctions.js.map" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
 </project>
